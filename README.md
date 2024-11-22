@@ -42,8 +42,11 @@ I'm a passionate Python Developer.
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/tactrics64/tactrics64/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tactrics64/tactrics64/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tactrics64/tactrics64/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tactrics64/tactrics64/output/github-snake.svg" />
+</picture>
 ---
 
 <div align="center">
